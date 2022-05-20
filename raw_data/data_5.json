@@ -1,0 +1,3685 @@
+[
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 0",
+        "id": "85c4c085-ade6-43d8-8fad-17b4fea7afb6",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.297307,
+            "longitude": -57.574945,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 1",
+        "id": "cbe63e27-1ff8-4436-a939-6bda991f7f1d",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.335307,
+            "longitude": -57.561345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 2",
+        "id": "b7e89682-e4e7-4cd5-8925-e4611db33f2a",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.334507,
+            "longitude": -57.589745,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 3",
+        "id": "455c90c0-ccdc-47ab-bdde-20557fc2210e",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.330106999999998,
+            "longitude": -57.602545,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 4",
+        "id": "5c5c06e6-8e32-4922-90ea-661e3d809f56",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.303307,
+            "longitude": -57.599345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 5",
+        "id": "913edd7d-8bd6-4877-9f00-2939428963fb",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.334906999999998,
+            "longitude": -57.574945,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 6",
+        "id": "e17141ce-b194-42f5-95b7-a4a9542a1744",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.330907,
+            "longitude": -57.571345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 7",
+        "id": "db5f493f-6b2f-4cdd-b027-5b7b05dd9401",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.336907,
+            "longitude": -57.591345000000004,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 8",
+        "id": "5da29500-8664-4a0b-a4c0-e2044d2d52fd",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.293706999999998,
+            "longitude": -57.579345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 9",
+        "id": "a39ba391-7d8a-4650-905e-18fad05cfec5",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.332107,
+            "longitude": -57.575745,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 10",
+        "id": "a3a1cdde-8b76-4a25-8130-c5693e739ae1",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.284107,
+            "longitude": -57.596945,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 11",
+        "id": "f2a55ccd-ad00-484d-b902-d573a52fa98c",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.272907,
+            "longitude": -57.583345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 12",
+        "id": "36439a1c-cf30-49c9-983d-9d7bd692e48c",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.324507,
+            "longitude": -57.558945,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 13",
+        "id": "90327517-28ca-4b66-8eab-790150f38d1e",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.287307,
+            "longitude": -57.579345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 14",
+        "id": "e68a648b-e821-4194-8bcc-6bf1a56ae8a6",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.299706999999998,
+            "longitude": -57.579345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 15",
+        "id": "6a136a51-d116-4fb4-8f55-ef66475a790c",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.328906999999997,
+            "longitude": -57.594945,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 16",
+        "id": "68da9869-61f1-489c-98b4-5ad1e10772f5",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.316907,
+            "longitude": -57.608945,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 17",
+        "id": "29c7c3b9-d72f-4bfe-afc4-f07dbf5108eb",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.278907,
+            "longitude": -57.588945,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 18",
+        "id": "904d5d59-6cde-4fc9-b589-6ea807f55182",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.313307,
+            "longitude": -57.554545000000005,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 19",
+        "id": "e1cb7fb2-7dd5-4469-8f27-54ed6e015fd3",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.267307,
+            "longitude": -57.578145,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 20",
+        "id": "3ce8266a-d281-4664-9241-593d8805f62d",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.303307,
+            "longitude": -57.572945000000004,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 21",
+        "id": "c39c1bdc-301b-4d47-9121-9072cc16a036",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.327707,
+            "longitude": -57.595345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 22",
+        "id": "d22e9002-6b41-4e77-823a-a105db72ff8a",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.269306999999998,
+            "longitude": -57.551745000000004,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 23",
+        "id": "032e840b-be63-430b-9d8e-b8b249afffda",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.338106999999997,
+            "longitude": -57.553745,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 24",
+        "id": "863714ab-41dc-49c5-8d6f-852286f4d70e",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.319307,
+            "longitude": -57.606545000000004,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 25",
+        "id": "0f3819b7-7d17-4214-b9f9-205fcbd1e255",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.310506999999998,
+            "longitude": -57.607345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 26",
+        "id": "5a410e41-2767-48a5-ba99-d9fbbfdbdced",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.292106999999998,
+            "longitude": -57.612945,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 27",
+        "id": "a46acb6e-cd19-4758-b593-20bf9ac9769c",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.292907,
+            "longitude": -57.602145,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 28",
+        "id": "5c269f15-adb0-40ab-aa66-0b381a8ec34b",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.270507,
+            "longitude": -57.599345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 29",
+        "id": "9b65fa02-fc60-4f4e-b6f6-b677173e1590",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.314906999999998,
+            "longitude": -57.589745,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 30",
+        "id": "2785b7c4-020f-45c7-83af-da3f4a370c42",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.314107,
+            "longitude": -57.606145,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 31",
+        "id": "cbf3f24c-130d-4d7f-8bb4-b7b1179e4252",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.319307,
+            "longitude": -57.579345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 32",
+        "id": "03506627-94bf-4b0a-b326-24c46d004b25",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.326907,
+            "longitude": -57.560145,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 33",
+        "id": "df9d3eb9-8c33-46c2-a84b-118d45f826e1",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.294107,
+            "longitude": -57.578545,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 34",
+        "id": "d3e1664f-ead2-487d-89e1-a708c9a7a5aa",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.326907,
+            "longitude": -57.579745,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 35",
+        "id": "c33b1670-9b4c-4e5d-8273-fcddd4ddf442",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.278506999999998,
+            "longitude": -57.626145,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 36",
+        "id": "63ca29d2-c4dd-4b12-b672-7cbc5759b9ad",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.278107,
+            "longitude": -57.588945,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 37",
+        "id": "7931b666-822b-46b7-a617-db363c461cd4",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.305307,
+            "longitude": -57.568145,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 38",
+        "id": "47fec9a7-47c7-4f2f-a55d-3972e74afa92",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.306507,
+            "longitude": -57.590945,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 39",
+        "id": "e711adb3-6e7a-42a8-b168-a8b340ec1fc2",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.274507,
+            "longitude": -57.623745,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 40",
+        "id": "2af35395-56d1-40ee-a30e-cb03b99bc0af",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.289707,
+            "longitude": -57.572145,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": false
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 41",
+        "id": "6e5b9284-c1b0-4072-bad5-bc9097643a90",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.260507,
+            "longitude": -57.582145000000004,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 42",
+        "id": "3ef48bd5-68f0-46ad-8434-4eac07970b3b",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.280907,
+            "longitude": -57.585345000000004,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 43",
+        "id": "7e8709e6-c5d4-4cfb-ac98-9b42397bbb92",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.309707,
+            "longitude": -57.565345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 44",
+        "id": "c03b2b1a-eeae-4ed4-8c7f-d2ef3b2af589",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.304107,
+            "longitude": -57.607745,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 45",
+        "id": "4973ce52-5014-47a0-a84f-fd7f6d4f094e",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.321306999999997,
+            "longitude": -57.602945,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 46",
+        "id": "4f16b7b3-d2b8-4a8a-a80d-cc1a8470e92c",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.314906999999998,
+            "longitude": -57.620545,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": true
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": false
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": true
+            }
+        ],
+        "name": "Cafe 47",
+        "id": "d33d5be2-b3ee-41ec-9d55-24b5c528904c",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.275306999999998,
+            "longitude": -57.583745,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": true
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 48",
+        "id": "986424dd-eeab-49ca-9586-0400ddc3cab4",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.336107,
+            "longitude": -57.619345,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "filters_data": [
+            {
+                "id": "25a23d05-ae14-4c59-8597-bebef5796f77",
+                "name": "Cafe de Especialidad",
+                "flag": false
+            },
+            {
+                "id": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+                "name": "Desayuno",
+                "flag": true
+            },
+            {
+                "id": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+                "name": "Merienda",
+                "flag": false
+            },
+            {
+                "id": "f7d5b61d-8a9c-4991-97df-11c29a0759df",
+                "name": "Metodos Filtrados",
+                "flag": true
+            },
+            {
+                "id": "27e60311-218f-4624-8438-d63bd580ae39",
+                "name": "Cafe frio",
+                "flag": false
+            }
+        ],
+        "name": "Cafe 49",
+        "id": "41e6cc42-664e-4c7b-8fc5-684f2fbe6e51",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "sabado"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.310907,
+            "longitude": -57.555745,
+            "adress": "Dr. Eduardo Lopez Moreira 4.810",
+            "city": "Asuncion"
+        }
+    }
+]

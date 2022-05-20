@@ -1,0 +1,2504 @@
+[
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 0",
+        "id": "51614870-71c7-4565-b619-f36bc95bf56c",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.290506999999998,
+            "longitude": -57.571745
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 1",
+        "id": "bd1c4f8e-5a4c-44e1-9cc6-cb092d639444",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.273307,
+            "longitude": -57.595745
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 2",
+        "id": "0f06778d-c0ce-48ab-9b3c-14af17c3081f",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.311707,
+            "longitude": -57.569345
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "cat_1": false,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 3",
+        "id": "f094f371-392b-4227-9070-a0788023d804",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.298907,
+            "longitude": -57.593345
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 4",
+        "id": "bce69f50-df59-4aee-8b52-1f88a8de75da",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.336107,
+            "longitude": -57.598545
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": false,
+        "name": "Cafe 5",
+        "id": "19a942bd-7021-42fa-9c0b-8161b137abc9",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.321707,
+            "longitude": -57.552145
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 6",
+        "id": "c13ebdaf-6f5b-47ed-b509-b52351679dbd",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.289306999999997,
+            "longitude": -57.586545
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": true,
+        "cat_5": false,
+        "name": "Cafe 7",
+        "id": "768da153-c25f-4101-a00a-a0b846d23e3f",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.328107,
+            "longitude": -57.625745
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 8",
+        "id": "d3249510-9dcb-4345-9c8a-78d7167e31ab",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.313706999999997,
+            "longitude": -57.549745
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "cat_1": false,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": false,
+        "name": "Cafe 9",
+        "id": "2c8080eb-2770-4edb-a824-636d172172a4",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.268107,
+            "longitude": -57.576145000000004
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": true,
+        "cat_5": false,
+        "name": "Cafe 10",
+        "id": "50975de3-fba3-4395-929a-271a105e14a8",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.300507,
+            "longitude": -57.548145
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 11",
+        "id": "dc475834-0db1-4a67-9815-57f512a62830",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.260907,
+            "longitude": -57.590945
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 12",
+        "id": "318892cd-445c-4416-97a7-41468bda7773",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.277707,
+            "longitude": -57.600545000000004
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 13",
+        "id": "32cba126-a3e4-4c57-b7b4-70d71fafb0c8",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.293307,
+            "longitude": -57.556545
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": false,
+        "cat_5": true,
+        "name": "Cafe 14",
+        "id": "a860e1cf-9204-4335-91b0-e163529e9db7",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.260507,
+            "longitude": -57.584545
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 15",
+        "id": "4b58af95-35b1-4822-9bdf-d1aec3101be8",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.298106999999998,
+            "longitude": -57.559745
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": false,
+        "name": "Cafe 16",
+        "id": "5ebca8ad-b778-4dd1-b7a1-ddcd6358d70d",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.297707,
+            "longitude": -57.566945000000004
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": true,
+        "name": "Cafe 17",
+        "id": "49e14b73-1177-4356-8cea-0a882fd81685",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.320107,
+            "longitude": -57.595745
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 18",
+        "id": "2a3678ee-3c46-44b7-a5f0-4c73801b143a",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.292907,
+            "longitude": -57.563345
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": false,
+        "cat_5": true,
+        "name": "Cafe 19",
+        "id": "e58f7d2a-f3d7-4cce-98db-9548c4716388",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.322506999999998,
+            "longitude": -57.549345
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": true,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 20",
+        "id": "dc8cec27-1a12-40f9-a58e-1cc76baa1a98",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.267706999999998,
+            "longitude": -57.562945
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 21",
+        "id": "f1d49aba-e3b1-4ed4-9823-6774972ab59d",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.312907,
+            "longitude": -57.581745
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": true,
+        "name": "Cafe 22",
+        "id": "0a46ebd4-77f4-47a4-8812-242824539d1a",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.266106999999998,
+            "longitude": -57.614545
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": false,
+        "cat_5": true,
+        "name": "Cafe 23",
+        "id": "0073375d-a267-46c7-a9d2-277b9dc52966",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.310506999999998,
+            "longitude": -57.579345
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 24",
+        "id": "19751240-2619-4d4c-a8c0-333596d2a651",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.278107,
+            "longitude": -57.555345
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 25",
+        "id": "2a385e54-9841-4bf7-9497-4a7fa2c4aaa0",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.326907,
+            "longitude": -57.560945000000004
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": true,
+        "name": "Cafe 26",
+        "id": "3f7f18e1-6500-4517-ba30-3b8aab5781c7",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.318106999999998,
+            "longitude": -57.559745
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 27",
+        "id": "7b113b76-3bb5-4c5e-89b8-6db828fe0972",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.289707,
+            "longitude": -57.573745
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 28",
+        "id": "d684c08f-603b-448e-a843-f08551486f38",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.303307,
+            "longitude": -57.591745
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 29",
+        "id": "38f4cc3f-93d3-49b0-9743-c1fec76f705e",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.309707,
+            "longitude": -57.622945
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 30",
+        "id": "66450437-0ebf-4cc9-b124-e678a74780fb",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.320107,
+            "longitude": -57.617345
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": true,
+        "cat_5": false,
+        "name": "Cafe 31",
+        "id": "6c62e22e-2413-46b1-bed2-e1566128b50a",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.320507,
+            "longitude": -57.572945000000004
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": true,
+        "name": "Cafe 32",
+        "id": "4f4dfec2-a53d-4203-b9f9-149b1f0a155c",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.300907,
+            "longitude": -57.577745
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 33",
+        "id": "a03611e1-bc31-4cc1-96b2-fc0a67b4beb0",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.323307,
+            "longitude": -57.556145
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "cat_1": true,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 34",
+        "id": "e7c829f8-745e-4c7e-9309-93d3b46f5e93",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.316506999999998,
+            "longitude": -57.553745
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "cat_1": false,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": false,
+        "name": "Cafe 35",
+        "id": "a279b31c-5e03-4dd1-a218-1a20f57a3861",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.305706999999998,
+            "longitude": -57.559745
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 36",
+        "id": "2a988510-cd58-4591-ae3a-0be35f61a50a",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.319706999999998,
+            "longitude": -57.610145
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": true,
+        "cat_5": false,
+        "name": "Cafe 37",
+        "id": "84668106-b7f8-43d3-9e42-fa904133a61d",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.334107,
+            "longitude": -57.546945
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 38",
+        "id": "c71ad11a-bb53-4564-be5d-5761081d2225",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.304907,
+            "longitude": -57.610945
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 39",
+        "id": "b9fcf51c-6f71-4ab2-aa73-5d728d0d39ea",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.337706999999998,
+            "longitude": -57.621345
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 40",
+        "id": "a20bfb06-237a-42da-80c5-b5d786e3ce02",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.309707,
+            "longitude": -57.614145
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 41",
+        "id": "51a5236d-e45c-41c7-a954-8a69ac396728",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.291707,
+            "longitude": -57.594145
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": false,
+        "name": "Cafe 42",
+        "id": "7681a996-6847-46b9-aeba-8d4d84d86370",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.322906999999997,
+            "longitude": -57.561345
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "cat_1": false,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 43",
+        "id": "4cff149d-554a-4f71-8847-6030cbed39c2",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.335707,
+            "longitude": -57.558145
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": false,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 44",
+        "id": "47aba60f-2751-4b2e-96f2-1a81b7fcf55b",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.271307,
+            "longitude": -57.560945000000004
+        }
+    },
+    {
+        "filter_match": "25a23d05-ae14-4c59-8597-bebef5796f77|b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": true,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": true,
+        "name": "Cafe 45",
+        "id": "391a6a44-2613-4729-9fdb-66c80adab971",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.262507,
+            "longitude": -57.617345
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 46",
+        "id": "0546a3c8-e738-4eb5-86f0-4393c1286cc5",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.316907,
+            "longitude": -57.618545
+        }
+    },
+    {
+        "filter_match": "b730cc7e-be1f-438e-ba14-fd1c22a67b0f|40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "cat_1": false,
+        "cat_2": true,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 47",
+        "id": "a6d71762-91a5-47c0-965e-018e223832b5",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 20.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.299307,
+            "longitude": -57.595745
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9",
+        "cat_1": false,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": false,
+        "cat_5": false,
+        "name": "Cafe 48",
+        "id": "7c69b2eb-3ceb-437e-a2ab-a1e3b63ecdeb",
+        "opening_hours": [
+            {
+                "is_open": true,
+                "day": "domingo",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "lunes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "08.00 - 23.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "08.00 - 23.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.337706999999998,
+            "longitude": -57.553745
+        }
+    },
+    {
+        "filter_match": "40352f9b-5fb7-4347-a21b-fcfebf78c7c9|f7d5b61d-8a9c-4991-97df-11c29a0759df|27e60311-218f-4624-8438-d63bd580ae39",
+        "cat_1": false,
+        "cat_2": false,
+        "cat_3": true,
+        "cat_4": true,
+        "cat_5": true,
+        "name": "Cafe 49",
+        "id": "5ad064bc-30c4-45a5-99fe-42acd086d985",
+        "opening_hours": [
+            {
+                "is_open": false,
+                "day": "domingo"
+            },
+            {
+                "is_open": false,
+                "day": "lunes"
+            },
+            {
+                "is_open": true,
+                "day": "martes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "miercoles",
+                "hours": "07.00 - 18.00"
+            },
+            {
+                "is_open": true,
+                "day": "jueves",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "viernes",
+                "hours": "08.00 - 20.00"
+            },
+            {
+                "is_open": true,
+                "day": "sabado",
+                "hours": "07.00 - 18.00"
+            }
+        ],
+        "location": {
+            "latitude": -25.288107,
+            "longitude": -57.562545
+        }
+    }
+]

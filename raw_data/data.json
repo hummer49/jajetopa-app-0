@@ -1,0 +1,352 @@
+[
+    {
+        "name": "Cafe 000",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 001",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": true,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 002",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 003",
+        "cat_A": true,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 004",
+        "cat_A": true,
+        "cat_B": true,
+        "cat_C": true,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 005",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 006",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 007",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 008",
+        "cat_A": true,
+        "cat_B": true,
+        "cat_C": true,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 009",
+        "cat_A": true,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 010",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 011",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 012",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": true,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 013",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": true,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 014",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 015",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 016",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 017",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": true,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 018",
+        "cat_A": false,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 019",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 020",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": true,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 021",
+        "cat_A": false,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 022",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 023",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": true,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 024",
+        "cat_A": true,
+        "cat_B": true,
+        "cat_C": true,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 025",
+        "cat_A": false,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 026",
+        "cat_A": false,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 027",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": true,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 028",
+        "cat_A": false,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 029",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": true,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 030",
+        "cat_A": false,
+        "cat_B": false,
+        "cat_C": true,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 031",
+        "cat_A": false,
+        "cat_B": false,
+        "cat_C": true,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 032",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": true,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 033",
+        "cat_A": true,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 034",
+        "cat_A": false,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 035",
+        "cat_A": true,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 036",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": true,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 037",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": true,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 038",
+        "cat_A": true,
+        "cat_B": true,
+        "cat_C": true,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 039",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 040",
+        "cat_A": true,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 041",
+        "cat_A": true,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 042",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 043",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": true,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 044",
+        "cat_A": true,
+        "cat_B": false,
+        "cat_C": true,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 045",
+        "cat_A": false,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 046",
+        "cat_A": false,
+        "cat_B": false,
+        "cat_C": true,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 047",
+        "cat_A": true,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    },
+    {
+        "name": "Cafe 048",
+        "cat_A": false,
+        "cat_B": false,
+        "cat_C": false,
+        "cat_D": true
+    },
+    {
+        "name": "Cafe 049",
+        "cat_A": false,
+        "cat_B": true,
+        "cat_C": false,
+        "cat_D": false
+    }
+]

@@ -4,9 +4,9 @@
     "slug": "buscoffee_app_0",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/jajetopa_logo_fit.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/jajetopa_splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
