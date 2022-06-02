@@ -193,11 +193,13 @@ const styles = StyleSheet.create({
     minHeight: 40, maxHeight: 60 ,
     width: '70%',
     paddingLeft: 20,
+    paddingRight: 20,
     borderWidth: 1,
     paddingVertical: 5,
     borderRadius: 15,
     fontSize: 20,
-    marginVertical: 15
+    marginVertical: 15,
+    // paddingLeft: 20
   },
 });
 
